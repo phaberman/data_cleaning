@@ -1,2 +1,2 @@
-# Ecommerce_Retail_Sales
-I explore the sales of various retailer store categories between the year 1998 and 2015.
+# Ecommerce Merchandise Line Sales fro 2014 and 2015
+I explore the ecommerce sales of various merchandise lines in the year 2014 and 2015.
